@@ -1,0 +1,53 @@
+[
+  {
+    "id": "example-token",
+    "name": "Example Token 1",
+    "symbol": "EXT1",
+    "type": "ERC20",
+    "oldAddress": "0xeF70373057b6d4529cDD9Da355fA797feA4AD2E4",
+    "newAddress": "0x8b8ef53994d1e6b61bcd25b1fa6f73cb69f3a01b",
+    "migratorAddress": "0xbf5275565e05233cdf5629ca6325300f291f5fed",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0.png",
+    "description": "Short description of the token",
+    "totalSupply": "1000000000000000000000000"
+  },
+  {
+    "id": "example-token-2",
+    "name": "Example Token 2",
+    "symbol": "EXT2",
+    "type": "ERC20",
+    "oldAddress": "0x0a891f1Bf05310FA3198758a7982579Acd074035",
+    "newAddress": "0xac531abc2537f8c5f5afae861b9dfeca88aaec1e",
+    "migratorAddress": "0x91d6198cc8b36aad47a65db0a93bf6864d6c1500",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7.png",
+    "description": "Short description of the token",
+    "totalSupply": "1000000000000000000000000"
+  },
+  {
+    "id": "example-nft",
+    "name": "Example NFT Collection",
+    "symbol": "ENFT",
+    "type": "ERC721",
+    "oldAddress": "0x63847e871AFc0390CeA1a9183e88757e2420b8d3",
+    "newAddress": "0xbd076a2e87abea894f7e32ddc077fe4bc3134f2b",
+    "migratorAddress": "0x7aadb9db82871a9604595c8dfa33e79d3161ec1a",
+    "decimals": 18,
+    "logo": "/logos/example-nft.png",
+    "description": "A collection of unique digital assets",
+    "totalSupply": 150
+  },
+  {
+    "id": "example-multi",
+    "name": "Example Multi-Token",
+    "symbol": "EMT",
+    "type": "ERC1155",
+    "oldAddress": "0x210f2A11585609B554a055C94922Dc34059e3D8A",
+    "newAddress": "0x2d845a199e8c8897fa0caae411dee65cae8aa1f6",
+    "migratorAddress": "0x5d80c1690c1b9d1332a2bbb250c73b7add4ec2a2",
+    "logo": "/logos/example-multi.png",
+    "description": "A multi-token collection with various token types",
+    "tokenTypes": 50
+  }
+]
