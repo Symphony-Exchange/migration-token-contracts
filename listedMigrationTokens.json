@@ -1,2 +1,15 @@
 [
+  {
+    "id": "migrationtest(TEST)",
+    "name": "migrationtest",
+    "symbol": "MIGTEST",
+    "type": "ERC20",
+    "oldAddress": "0x34835D519cA889D308903cc2CB94A7834221Ec83",
+    "newAddress": "0x4bdf647463fa068c43f6f82e1cec4cbe9c891a75",
+    "migratorAddress": "0x47371ab0854fc77c432e20718c8bcd3fae2299fe",
+    "decimals": 6,
+    "logo": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x34835D519cA889D308903cc2CB94A7834221Ec83.png",
+    "description": "MIGTEST Test token",
+    "totalSupply": "10000000000"
+  }
 ]
